@@ -1,5 +1,3 @@
-#Roadmap 
-
 Sprint #1
 
 -[x] Create and turn in Exercise #6 
