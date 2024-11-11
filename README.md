@@ -1,1 +1,2 @@
 # Hello-Weather
+This App will allow you to check what the weather will be like today, tommorow, or even in a week. Don't you hate not knowing if it will be cold or warm, or even sunny or rainy. This app will give you all the details you need to know about so you can go on with your day. This app will be ideal for you also if you're organzing a trip, getting ready for and outdoor activity, or simply wanting to know what the weather will be like. 
