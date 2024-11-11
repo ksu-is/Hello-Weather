@@ -1,14 +1,14 @@
 Sprint #1
 
--[x] Create and turn in Exercise #6 
+- [x] Create and turn in Exercise #6 
 
--[x] Join KSU-IS organization through email 
+- [x] Join KSU-IS organization through email 
 
--[x] Create code repository in organization 
+- [x] Create code repository in organization 
 
--[x] Create readme.md file 
+- [x] Create readme.md file 
 
--[x] Create projectroadmap.md file 
+- [x] Create projectroadmap.md file 
 
 Sprint #2
 
