@@ -1,7 +1,6 @@
 #Roadmap 
 
 Sprint #1
-
 -[x] Create and turn in Exercise #6 
 
 -[x] Join KSU-IS organization through email 
