@@ -12,9 +12,9 @@ if weather_data.json()['cod'] == '404':
 else:
     weather = weather_data.json()['weather'][0]['main']
     temp = round(weather_data.json()['main']['temp'])
-    wind = weather_data.json()['main']['speed']
+    
 
     print(f"The weather in {user_input} is: {weather}")
     print(f"The temperature in {user_input} is: {temp}ºF")
-    print(f"The wind in {user_input} is: {wind}")
+    
     
