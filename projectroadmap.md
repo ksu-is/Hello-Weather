@@ -1,4 +1,4 @@
-Sprint #1
+Sprint #1 Due on November 11
 
 - [x] Create and turn in Exercise #6 
 
@@ -10,7 +10,7 @@ Sprint #1
 
 - [x] Create projectroadmap.md file 
 
-Sprint #2
+Sprint #2 Due on November 17
 
 - [x] Find information on related project by youtube videos, websites, etc. 
 
@@ -22,7 +22,7 @@ Sprint #2
 
 - [ ] Need to make sure to track progress on the tasks and document it on the project road map.
 
-Sprint #3
+Sprint #3 Due on November 22
 
 - [ ] Organize any coding to appear more neat 
 
