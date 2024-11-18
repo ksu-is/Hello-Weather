@@ -14,13 +14,13 @@ Sprint #2 Due on November 17
 
 - [x] Find information on related project by youtube videos, websites, etc. 
 
-- [ ] Make small updates on Github
+- [x] Make small updates on Github
 
-- [ ] Should make at least 6 code changes of significant size (not just a spelling error fix for example)
+- [x] Should make at least 6 code changes of significant size (not just a spelling error fix for example)
 
-- [ ] Each commit should include a comment that explains what you did and explain what your update was and why you did it briefly.
+- [x] Each commit should include a comment that explains what you did and explain what your update was and why you did it briefly.
 
-- [ ] Need to make sure to track progress on the tasks and document it on the project road map.
+- [x] Need to make sure to track progress on the tasks and document it on the project road map.
 
 Sprint #3 Due on November 22
 
