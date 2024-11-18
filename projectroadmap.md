@@ -12,7 +12,7 @@ Sprint #1
 
 Sprint #2
 
-- [ ] Find information on related project by youtube videos, websites, etc. 
+- [x] Find information on related project by youtube videos, websites, etc. 
 
 - [ ] Make small updates on Github
 
