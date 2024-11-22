@@ -7,4 +7,6 @@ Anyone wanting to find out what the weather will be like but especially people w
 - Throwing a party
 - Going for a walk
 - Running errands
+#### How to use
+
 #### By: Vanessa Aguirre
