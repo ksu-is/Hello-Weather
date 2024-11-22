@@ -24,17 +24,17 @@ Sprint #2 Due on November 17
 
 Sprint #3 Due on November 22
 
-- [ ] Organize any coding to appear more neat 
+- [x] Organize any coding to appear more neat 
 
-- [ ] Refine the coding on the project
+- [x] Refine the coding on the project
 
-- [ ] Create PowerPoint slide for project 
+- [x] Create PowerPoint slide for project 
 
-- [ ] Show title of project on PPT
+- [x] Show title of project on PPT
 
-- [ ] Show a tag line that introduces the main concept of what it does and what it will do on the PPT
+- [x] Show a tag line that introduces the main concept of what it does and what it will do on the PPT
 
-- [ ] Show 1-2 screenshots or pictures demonstrating the idea
+- [x] Show 1-2 screenshots or pictures demonstrating the idea
 
-- [ ] Upload PowerPoint to Github and turn in powerpoint to D2L
+- [x] Upload PowerPoint to Github and turn in powerpoint to D2L
 
